@@ -1,0 +1,21 @@
+date,customer_id,farm_equipment_name,rental_amount
+2025-07-01,101,Tractor,500
+2025-07-01,102,Combine Harvester,1200
+2025-07-01,103,Plow,150
+2025-07-02,101,Tractor,550
+2025-07-02,104,Seeder,200
+2025-07-03,105,Baler,300
+2025-07-03,102,Combine Harvester,1300
+2025-07-04,106,Sprayer,250
+2025-07-04,101,Tractor,520
+2025-07-05,107,Mower,100
+2025-07-05,103,Plow,160
+2025-07-06,108,Cultivator,180
+2025-07-06,105,Baler,320
+2025-07-07,109,Fertilizer Spreader,220
+2025-07-07,102,Combine Harvester,1250
+2025-07-08,110,Tiller,170
+2025-07-08,101,Tractor,530
+2025-07-09,104,Seeder,210
+2025-07-09,106,Sprayer,260
+2025-07-10,103,Plow,170
